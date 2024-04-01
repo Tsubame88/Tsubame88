@@ -37,13 +37,20 @@
 
  
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-
-  <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>
-
-  <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
+  
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
- 
-  <img src="https://img.icons8.com/dusk/48/000000/anaconda.png"/>
+
+  <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+
+  <img width="48" height="48" src="https://img.icons8.com/color/48/google-colab.png" alt="google-colab"/>
+
+  <img width="48" height="48" src="https://img.icons8.com/color/48/google-looker.png" alt="google-looker"/>
+
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/google-sheets--v1.png" alt="google-sheets--v1"/>
+
+  <img width="48" height="48" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/>
+
+  
 
 </p>
 
