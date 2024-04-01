@@ -5,7 +5,7 @@
 </p>
 
 
-- ✍ I'm seeking a position as Data Analyst).
+
 
 <br />
 
