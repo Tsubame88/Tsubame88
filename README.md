@@ -60,7 +60,7 @@
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsubame88&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Most%20used%20languages" alt="tsubame88" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=tsubame88&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Tsubame'%20Github%20stats" alt="tsubame88" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=tsubame88&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Tsubame%20'Github%20stats" alt="tsubame88" width="100%"/>
     </td>
     <td>
       <p align="center"> 
